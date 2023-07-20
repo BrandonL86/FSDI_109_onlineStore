@@ -1,0 +1,55 @@
+.footer{
+    width: 100%;
+    background-color:rgb(246, 246, 246);
+    padding: 5px;
+    margin:3px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.footer .visitstore{
+    display: flex;
+    text-align: left;
+    padding: 30px;
+    border-bottom: 2px solid lightgray;
+    
+}
+
+.footer .visitstore .text{
+    text-align: left;
+    padding: 40px;
+}
+
+.footer .footer-content {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    padding: 5px;
+    margin: 2%;
+}
+
+.footer .footer-section{
+    width: auto;
+    padding: 30px;
+    margin: 2px;
+    text-align: left;
+}
+
+.footer .newsletter-text{
+    text-align: left;
+}
+
+.footer #subscribe{
+    width: 100%;
+    margin-top: 8px;
+    background-color:  rgb(174, 242, 174);
+    border: none;
+    color: cadetblue;
+}
+
+.footer .footer-bottom{
+    background-color:  rgb(174, 242, 174);
+    color: cadetblue;
+
+}
